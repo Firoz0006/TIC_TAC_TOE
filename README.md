@@ -9,6 +9,3 @@
 
 ### how to run Project
 for Running this project type:nodemon index.js (terminal or command)
-
-The main purpose is to implement this projct is to learning for HTML,CSS,JavaScript
-How working in side the system
