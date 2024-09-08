@@ -7,5 +7,5 @@
 ![image4](https://github.com/Firoz0006/TIC_TAC_TOE/blob/main/snapshot/Screenshot%20(154).png)
 ![image5](https://github.com/Firoz0006/TIC_TAC_TOE/blob/main/snapshot/images.png)
 
-### how to run Project
+### How to run Project
 for Running this project type:nodemon index.js (terminal or command)
