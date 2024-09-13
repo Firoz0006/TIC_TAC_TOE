@@ -10,4 +10,5 @@
 
 ### How to run Project
 for Running this project type:nodemon index.js (terminal or command)
-after runing displaye our project on screen
+
+after running display our project on screen
